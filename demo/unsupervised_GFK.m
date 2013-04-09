@@ -1,6 +1,6 @@
 function Ex_GFK()
 addpath '../code/helper/'
-addpath '../code/main_algorithm/'
+addpath '../code/main_algorithm/GFK/'
 addpath '../database/OC10/'
 % This shows how to use GFK in a 1-nearest neighbor classifier.
 
