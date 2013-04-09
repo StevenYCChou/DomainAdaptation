@@ -1,4 +1,4 @@
-function Ex_GFK()
+function unsupervised_GFK()
 addpath '../code/helper/'
 addpath '../code/main_algorithm/GFK/'
 addpath '../database/OC10/'
